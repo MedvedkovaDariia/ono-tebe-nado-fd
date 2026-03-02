@@ -1,1 +1,1 @@
-https://github.com/MedvedkovaDariia/ono-tebe-nado-fd
+https://github.com/MedvedkovaDariia/ono-tebe-nado
